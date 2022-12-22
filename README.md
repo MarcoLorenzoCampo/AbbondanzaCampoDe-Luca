@@ -12,7 +12,7 @@ Electric mobility (e-Mobility) is a way to limit the carbon footprint caused by 
 ## The contributions
 To show the individual contributions to the project, we used Google Docs before rewriting the final version of the project in LaTeX. 
 
-[Here](https://docs.google.com/document/d/1_9B7hhzklb8xjAu90bGebEbj85pfwbT7uRlxMwanXM0/edit?usp=sharing) there's the link to the RASD document on Google Docs.
+To view the RASD document on Google Docs click [here](https://docs.google.com/document/d/1_9B7hhzklb8xjAu90bGebEbj85pfwbT7uRlxMwanXM0/edit?usp=sharing).
 
 ## Authors
 * Abbondanza Alessia
