@@ -7,12 +7,14 @@ Requirement analysis and design choices for this project are described inside th
 
 
 ## The problem: e-Mobility for All
-Electric mobility (e-Mobility) is a way to limit the carbon footprint caused by our urban and sub-urban mobility needs. When using an electric vehicle, knowing where to charge the vehicle and carefully planning the charging process in such a way that it introduces minimal interference and constraints on
-our daily schedule is of paramount importance.
+Electric mobility (e-Mobility) is a way to limit the carbon footprint caused by our urban and sub-urban mobility needs. When using an electric vehicle, knowing where to charge the vehicle and carefully planning the charging process in such a way that it introduces minimal interference and constraints on our daily schedule is of paramount importance.
 
+## The contributions
+To show the individual contributions to the project, we used Google Docs before rewriting the final version of the project in LaTeX. Here's the link to the document.
+[RASD on Google Docs](https://docs.google.com/document/d/1_9B7hhzklb8xjAu90bGebEbj85pfwbT7uRlxMwanXM0/edit?usp=sharing)
 
 ## Authors
-* [__Abbondanza Alessia__]
-* [__Campo Marco Lorenzo__]
-* [__De Luca Alessandro__]
+* Abbondanza Alessia
+* Campo Marco Lorenzo
+* De Luca Alessandro
 
