@@ -1,3 +1,5 @@
+Score: 13.75/14
+
 # e-Mall: e-Mobility for All - Software Engineering 2 Project - A.Y. 2022-2023
 
 e-Mall is a Requirement Engineering and Design Project realized for the Software Engineering 2 course at Politecnico di Milano.
